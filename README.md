@@ -26,17 +26,20 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
+      
       I'm compentent in several programming languages such as,HTML 5,CSS,TAILWIND and a little 
       bit 
       of JavaScript.
 
     - Some of my work.
+      
     - Includes: HTML5,CSS with tailwind and a little bit of JavaScript 
       Link:https://github.com/Ndumiso-Sibanda/NDUSIB400_BCL2401_GroupD02_Ndumiso-Sibanda_SDF11
     - Includes: HTML5 and CSS
       Link:https://github.com/Ndumiso-Sibanda/NDUSIB400_Bcsl2401_GroupD02_Ndumiso-Sibanda-SDF06
       
     - Identify skills you need to develop or improve.
+      
       Areas or programming lang I would like to improve in would be::
      -JavaScript
      -Python
